@@ -1,9 +1,9 @@
 # An example of an extremely simplified proposed data structure (I expect this to be broken and want feedback)
 To test the data structure we need to find the most complex/unusual rules and see how they would fit - looking to other rulesets would be advantageous to make this robust.
 
-I’m working along the idea of the data structure being allowed to set the type of logic to be used. The logic would be defined in the code but gives extremely flexibility and future-proofing?
+I’m working along the idea of the data structure being allowed to set the type of logic to be used. The logic would be defined in the code but gives extreme flexibility and future-proofing?
 
-I.e. the logic code has definitions for how to handle the type modifier (simple maths) & subliit (limit an ability score subTotal - i.e. before magic items?)
+I.e. the logic code has definitions for how to handle the type modifier (simple maths) & sublimit (limit an ability score subTotal - i.e. before magic items?)
 
 # Known issues
 
