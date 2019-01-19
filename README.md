@@ -5,7 +5,7 @@ I’m working along the idea of the data structure being allowed to set the type
 
 I.e. the logic code has definitions for how to handle the type modifier (simple maths) & subliit (limit an ability score subTotal - i.e. before magic items?)
 
-#Known issues
+# Known issues
 
 Someform of "uid" required to avoid duplicate content, and to allow targeting with other logic. Also we need to have a way of storing the exact rules applied to a character... I imagine it being automated at creation where possible.
 
