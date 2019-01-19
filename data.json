@@ -1,0 +1,25 @@
+{
+  "race": [{
+    "name": "Elf",
+    "uid" : "",
+    "source": "SRDv5.1",
+    "logic": [{
+          "type": "modifier",
+          "target": "dexterity",
+          "value": "2",
+          "description": "Ability	Score Increase. Your Dexterity score increases by 2."
+        }]
+  },
+  {
+    "name": "Duck",
+    "uid" : "",
+    "source": "Examplev1",
+    "logic": [{
+          "type": "sublimit",
+          "target": "strength",
+          "value": "16",
+          "description": "Ducks cannot have a Strength above 16."
+        }]
+  }
+]
+}
