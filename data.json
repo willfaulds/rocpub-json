@@ -1,7 +1,9 @@
 {
   "race": [{
     "name": "Elf",
+    //someform of "uid" required to avoid duplicate content, and to allow targeting with other logic. Also we need to have a way of storing the exact rules applied to a character... I imagine it being automated at creation where possible.
     "uid" : "",
+    //"source" should perhaps be moved higher up the json chain for efficiency? i.e. top level array.
     "source": "SRDv5.1",
     "logic": [{
           "type": "modifier",
